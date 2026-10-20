@@ -1,0 +1,14 @@
+{
+  "name": "Fantasy Rivals · Арена",
+  "short_name": "FR Arena",
+  "description": "3D-арена: выбери героя и отбей бесконечные волны соперников.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#141019",
+  "theme_color": "#141019",
+  "icons": [
+    { "src": "logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

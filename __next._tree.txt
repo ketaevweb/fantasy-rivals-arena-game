@@ -1,0 +1,7 @@
+:HL["/fantasy-rivals-arena-game/_next/static/chunks/06489803c19bc98b.css","style"]
+:HL["/fantasy-rivals-arena-game/_next/static/chunks/e5ed8ed59c94570f.css","style"]
+:HL["/fantasy-rivals-arena-game/_next/static/media/3601f32897df77ee-s.p.2ad5c29d.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fantasy-rivals-arena-game/_next/static/media/803974e4127973f0-s.p.32654a7e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fantasy-rivals-arena-game/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/fantasy-rivals-arena-game/_next/static/media/9c72aa0f40e4eef8-s.p.18a48cbc.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"buildId":"ZAmaQmUg_PDcPZrhS-D1-","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

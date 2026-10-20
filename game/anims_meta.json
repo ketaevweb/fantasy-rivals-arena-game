@@ -1,0 +1,167 @@
+{
+ "generated": "2026-10-19T19:18:08.962Z",
+ "fps": 30,
+ "clips": {
+  "walk": {
+   "dur": 0.792,
+   "loop": true,
+   "kind": "move",
+   "strike": null,
+   "srcHipsY": 1.332
+  },
+  "run": {
+   "dur": 0.792,
+   "loop": true,
+   "kind": "move",
+   "strike": null,
+   "srcHipsY": 1.043
+  },
+  "run_back": {
+   "dur": 0.792,
+   "loop": true,
+   "kind": "move",
+   "strike": null,
+   "srcHipsY": 1.205
+  },
+  "run_left": {
+   "dur": 0.792,
+   "loop": true,
+   "kind": "move",
+   "strike": null,
+   "srcHipsY": 1.168
+  },
+  "run_right": {
+   "dur": 0.792,
+   "loop": true,
+   "kind": "move",
+   "strike": null,
+   "srcHipsY": 1.219
+  },
+  "attack_1": {
+   "dur": 1.167,
+   "loop": false,
+   "kind": "attack",
+   "strike": 0.429,
+   "srcHipsY": 0.961
+  },
+  "attack_2": {
+   "dur": 1.167,
+   "loop": false,
+   "kind": "attack",
+   "strike": 0.45,
+   "srcHipsY": 0.961
+  },
+  "attack_3": {
+   "dur": 1.167,
+   "loop": false,
+   "kind": "attack",
+   "strike": 0.4,
+   "srcHipsY": 0.961
+  },
+  "hit_f": {
+   "dur": 0.667,
+   "loop": false,
+   "kind": "hit",
+   "strike": null,
+   "srcHipsY": 0.961
+  },
+  "hit_b": {
+   "dur": 0.667,
+   "loop": false,
+   "kind": "hit",
+   "strike": null,
+   "srcHipsY": 0.961
+  },
+  "hit_l": {
+   "dur": 0.5,
+   "loop": false,
+   "kind": "hit",
+   "strike": null,
+   "srcHipsY": 0.961
+  },
+  "hit_r": {
+   "dur": 0.5,
+   "loop": false,
+   "kind": "hit",
+   "strike": null,
+   "srcHipsY": 0.961
+  },
+  "roll": {
+   "dur": 1.333,
+   "loop": false,
+   "kind": "roll",
+   "strike": null,
+   "srcHipsY": 0.961
+  },
+  "getup": {
+   "dur": 4,
+   "loop": false,
+   "kind": "getup",
+   "strike": null,
+   "srcHipsY": 0.174
+  },
+  "punch_r": {
+   "dur": 0.792,
+   "loop": false,
+   "kind": "attack",
+   "strike": 0.421,
+   "srcHipsY": 1.166
+  },
+  "punch_l": {
+   "dur": 0.792,
+   "loop": false,
+   "kind": "attack",
+   "strike": 0.379,
+   "srcHipsY": 1.166
+  },
+  "death": {
+   "dur": 0.708,
+   "loop": false,
+   "kind": "death",
+   "strike": null,
+   "srcHipsY": 0.98
+  },
+  "combat_idle": {
+   "dur": 1.333,
+   "loop": true,
+   "kind": "idle",
+   "strike": null,
+   "srcHipsY": 0.98
+  },
+  "attack_1h_1": {
+   "dur": 1.083,
+   "loop": false,
+   "kind": "attack",
+   "strike": 0.246,
+   "srcHipsY": 0.98
+  },
+  "attack_1h_2": {
+   "dur": 1.083,
+   "loop": false,
+   "kind": "attack",
+   "strike": 0.308,
+   "srcHipsY": 0.98
+  },
+  "attack_pole": {
+   "dur": 1.333,
+   "loop": false,
+   "kind": "attack",
+   "strike": 0.275,
+   "srcHipsY": 0.98
+  },
+  "shield_bash": {
+   "dur": 0.875,
+   "loop": false,
+   "kind": "attack",
+   "strike": 0.267,
+   "srcHipsY": 0.98
+  },
+  "brute_attack": {
+   "dur": 1.5,
+   "loop": false,
+   "kind": "attack",
+   "strike": 0.289,
+   "srcHipsY": 1.502
+  }
+ }
+}
